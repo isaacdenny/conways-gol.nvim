@@ -1,2 +1,2 @@
-# conways-wol.nvim
-neovim plugin to play Conway's Way of Life
+# conways-gol.nvim
+neovim plugin to play Conway's Game of Life
